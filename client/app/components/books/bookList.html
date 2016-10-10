@@ -1,0 +1,14 @@
+<div>
+    <h1>{{ $ctrl.name }}</h1>
+
+    <h1>Books</h1>
+    <div>
+        <ul >
+            <li ng-repeat="book in $ctrl.books">
+                <a href="/bookdetail/{{book.id}}">
+                    <h2>{{ book.title }}</h2>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

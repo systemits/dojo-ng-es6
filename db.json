@@ -1,0 +1,8 @@
+{
+    "books":[{
+        "id": 1,
+        "title": "Book 1",
+        "author": "Leandro",
+        "price": 3.99
+    }]
+}
