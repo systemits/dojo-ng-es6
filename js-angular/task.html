@@ -1,0 +1,5 @@
+<div>
+  <span><input type="checkbox" ng-model="vm.task.done" /></span>
+  <span ng-class="{'strike-true': vm.task.done}">{{ vm.task.name }}</span>
+  <span><button ng-click="vm.deleteTask(vm.task.id)">Delete</button></span>
+</div>

@@ -1,0 +1,30 @@
+Legal:
+
+- Mais pessoas com domínio do tema a tarde
+- Overview facilitou o entendimento
+-
+
+Não tão legal:
+
+- Grupo disperso
+- Muitas pessoas demora pra rotacionar
+- Falta de domínio do tema atrapalhou
+- Conversa paralela
+- Falta de overview sobre o método (dojo)
+- Faltou testes
+
+Sugestões:
+
+- Mini-desafios
+- Overview
+- Temas:
+-- C
+-- Testes
+-- Chef
+-- python/django
+-- django
+- Frequência
+-- 1/mês
+- Duração
+-- 1 período
+-- 1 dia
